@@ -1,5 +1,4 @@
 # Multilabel Emotion Classification
-Multi-label emotion classification using logistic regression, RNNs, and BERT
 
 In this project completed for an Advanced NLP class as part of the Barcelona School of Economics master in Data Science Methodology, we test three different approaches for multi-label emotion classification using the GoEmotions dataset: a One-vs-Rest logistic regression classifier, an RNN classifier, and a classifier based on BERT. With the BERT model, we successfully replicate the SoA result of the original Demszky et al. (2020) paper.
 
